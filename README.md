@@ -32,4 +32,4 @@ Generative Adversarial Network model
 ![epoch-300000](https://github.com/HijikiTaro/GAN/blob/master/image/epoch300000.png "epoch300000")
 
 # References
-http://yusuke-ujitoko.hatenablog.com/entry/2017/05/08/010314
+https://github.com/triwave33/GAN  
