@@ -7,29 +7,23 @@
 
 # Usage
 実装手順：
-https://github.com/HijikiTaro/GAN/blob/master/gan.ipynb
+https://github.com/HijikiTaro/DCGAN/blob/master/DCGAN.ipynb
 
 model構造：
 
 Generator model
 
-![Generator](https://github.com/HijikiTaro/GAN/blob/master/image/Gen.png "Generator")
+![Generator](https://github.com/HijikiTaro/DCGAN/blob/master/image/Gen.png "Generator")
 
 Discriminator model
 
-![Discriminator](https://github.com/HijikiTaro/GAN/blob/master/image/Dis.png "Discriminator")
+![Discriminator](https://github.com/HijikiTaro/DCGAN/blob/master/image/Dis.png "Discriminator")
 
-Generative Adversarial Network model
-
-  Generator　→　Discriminator
-
-![Generative Adversarial Network](https://github.com/HijikiTaro/GAN/blob/master/image/GAN.png "Generative Adversarial Network")
 
 実装結果：
 
-![epoch-0](https://github.com/HijikiTaro/GAN/blob/master/image/epoch0.png "epoch0")
 
-![epoch-300000](https://github.com/HijikiTaro/GAN/blob/master/image/epoch300000.png "epoch300000")
+
 
 # References
 https://github.com/triwave33/GAN  
